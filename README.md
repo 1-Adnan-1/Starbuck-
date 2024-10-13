@@ -2,7 +2,7 @@
 
 - This project is a Starbucks frontend clone built using HTML and CSS
 
-#Features
+# Features
 
 - Responsive Design: The web page adapts to various screen sizes such as mobile, tablet and desktop.
   
